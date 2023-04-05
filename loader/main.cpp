@@ -1,3 +1,4 @@
+// Made by PhilipPanda | https://github.com/PhilipPanda
 #include "gui.h"
 
 #include <thread>
